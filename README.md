@@ -2,4 +2,4 @@
 # General
 Code and Paper coming soon - GUI is available at
 
-# [https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb](Google Colab Link)
+# [Google Colab Link](https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb)
